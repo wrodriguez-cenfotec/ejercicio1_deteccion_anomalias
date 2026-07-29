@@ -4,7 +4,7 @@
 
 ### Detección de anomalías en el acceso al repositorio
 
-Libreta de práctica para los estudiantes del curso CIB-209, Temas Especiales en Seguridad de Datos y Sistemas. Eje del curso: seguridad de datos en tránsito y en procesamiento.
+Libreta de práctica para los estudiantes del curso CIB-209, Temas Especiales en Seguridad de Datos y Sistemas.
 
 ## Aviso sobre los datos
 
